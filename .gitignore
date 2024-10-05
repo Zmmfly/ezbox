@@ -1,3 +1,8 @@
+# For xmake generated files
+.xmake
+build
+dist
+
 # Prerequisites
 *.d
 
